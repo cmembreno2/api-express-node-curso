@@ -1,4 +1,3 @@
 # api-express-node-curso
-Proyecto de curso con express y node
-https://app-node-express-cm.herokuapp.com/
+Proyecto de curso Udemy con node, express y mongoDb
 owner: cfmembreno1989
